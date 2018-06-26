@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER contamobi
+MAINTAINER diegoemerick
 
 # Versions
 ENV IONIC_VERSION 2.2.3
